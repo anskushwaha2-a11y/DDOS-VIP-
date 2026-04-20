@@ -1,7 +1,6 @@
 import os
 import json
 import signal
-import telebot
 import requests
 import logging
 import time
