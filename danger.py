@@ -10,7 +10,6 @@ import certifi
 from threading import Thread, Lock
 import asyncio
 import concurrent.futures
-from telebot import types
 import pytz
 
 # Initialize attack_loop first
